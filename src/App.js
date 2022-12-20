@@ -65,7 +65,7 @@ function App() {
         </button>
       </div>
       <footer className="colorFooter text-center">
-        Made By Chidoro Batkau V1.0 MixKarDo
+        Made By Chidoro Batkau V3.0 MixKarDo
       </footer>
     </div>
   );
