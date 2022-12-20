@@ -1,26 +1,14 @@
 {
   "files": {
-    "main.css": "/fiji-radio-batkau/static/css/main.e4a1344d.chunk.css",
-    "main.js": "/fiji-radio-batkau/static/js/main.cbe4074e.chunk.js",
-    "main.js.map": "/fiji-radio-batkau/static/js/main.cbe4074e.chunk.js.map",
-    "runtime-main.js": "/fiji-radio-batkau/static/js/runtime-main.4001c5ab.js",
-    "runtime-main.js.map": "/fiji-radio-batkau/static/js/runtime-main.4001c5ab.js.map",
-    "static/css/2.a3423c24.chunk.css": "/fiji-radio-batkau/static/css/2.a3423c24.chunk.css",
-    "static/js/2.abeabd29.chunk.js": "/fiji-radio-batkau/static/js/2.abeabd29.chunk.js",
-    "static/js/2.abeabd29.chunk.js.map": "/fiji-radio-batkau/static/js/2.abeabd29.chunk.js.map",
+    "main.css": "/fiji-radio-batkau/static/css/main.3467cad3.css",
+    "main.js": "/fiji-radio-batkau/static/js/main.4a4e4525.js",
+    "static/media/fiji.jpg": "/fiji-radio-batkau/static/media/fiji.42899c8a1e66bdd4ca95.jpg",
     "index.html": "/fiji-radio-batkau/index.html",
-    "precache-manifest.738434ae41c7dcf7cf68a1a42f2b45ec.js": "/fiji-radio-batkau/precache-manifest.738434ae41c7dcf7cf68a1a42f2b45ec.js",
-    "service-worker.js": "/fiji-radio-batkau/service-worker.js",
-    "static/css/2.a3423c24.chunk.css.map": "/fiji-radio-batkau/static/css/2.a3423c24.chunk.css.map",
-    "static/css/main.e4a1344d.chunk.css.map": "/fiji-radio-batkau/static/css/main.e4a1344d.chunk.css.map",
-    "static/js/2.abeabd29.chunk.js.LICENSE.txt": "/fiji-radio-batkau/static/js/2.abeabd29.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/fiji-radio-batkau/static/media/fiji.5a8c5aaa.jpg"
+    "main.3467cad3.css.map": "/fiji-radio-batkau/static/css/main.3467cad3.css.map",
+    "main.4a4e4525.js.map": "/fiji-radio-batkau/static/js/main.4a4e4525.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4001c5ab.js",
-    "static/css/2.a3423c24.chunk.css",
-    "static/js/2.abeabd29.chunk.js",
-    "static/css/main.e4a1344d.chunk.css",
-    "static/js/main.cbe4074e.chunk.js"
+    "static/css/main.3467cad3.css",
+    "static/js/main.4a4e4525.js"
   ]
 }
